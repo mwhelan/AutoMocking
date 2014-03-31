@@ -1,0 +1,9 @@
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\AutoMocking.NSubstitute.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\AutoMocking.NSubstitute.pdb
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\AutoMocking.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\NSubstitute.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\AutoMocking.pdb
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\bin\Debug\NSubstitute.xml
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\obj\Debug\AutoMocking.NSubstitute.csprojResolveAssemblyReference.cache
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\obj\Debug\AutoMocking.NSubstitute.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking.NSubstitute\obj\Debug\AutoMocking.NSubstitute.pdb

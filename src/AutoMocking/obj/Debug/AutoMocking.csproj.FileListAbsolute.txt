@@ -1,0 +1,5 @@
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking\bin\Debug\AutoMocking.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking\bin\Debug\AutoMocking.pdb
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking\obj\Debug\AutoMocking.csprojResolveAssemblyReference.cache
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking\obj\Debug\AutoMocking.dll
+D:\SkyDrive\WORKSPACE\Apps\AutoMocking\AutoMocking\AutoMocking\obj\Debug\AutoMocking.pdb
